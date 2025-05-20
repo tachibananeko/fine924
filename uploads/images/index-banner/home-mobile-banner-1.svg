@@ -1,85 +1,291 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="680" viewBox="0 0 768 680">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 768 680">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
   <defs>
-    <clipPath id="clip-home-mobile-banner-1">
-      <rect width="768" height="680"/>
+    <style>
+      .st0, .st1, .st2 {
+        fill: none;
+      }
+
+      .st3 {
+        fill: url(#linear-gradient1);
+      }
+
+      .st4 {
+        fill: url(#linear-gradient4);
+        mix-blend-mode: screen;
+      }
+
+      .st5 {
+        fill: url(#linear-gradient6);
+        opacity: .8;
+      }
+
+      .st1, .st2 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .st6 {
+        fill: url(#linear-gradient2);
+        mix-blend-mode: color-burn;
+      }
+
+      .st7 {
+        fill: url(#linear-gradient);
+      }
+
+      .st8 {
+        isolation: isolate;
+      }
+
+      .st9 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st10 {
+        clip-path: url(#clippath-3);
+      }
+
+      .st11 {
+        clip-path: url(#clippath-2);
+      }
+
+      .st12 {
+        fill: url(#radial-gradient);
+        mix-blend-mode: lighten;
+      }
+
+      .st13 {
+        fill: url(#linear-gradient5);
+        mix-blend-mode: multiply;
+        opacity: .7;
+      }
+
+      .st2, .st14, .st15, .st16 {
+        mix-blend-mode: overlay;
+      }
+
+      .st15 {
+        fill: url(#linear-gradient3);
+        opacity: .6;
+      }
+
+      .st16 {
+        fill: url(#linear-gradient7);
+      }
+
+      .st17 {
+        clip-path: url(#clippath);
+      }
+
+      .st18 {
+        fill: url(#radial-gradient1);
+        mix-blend-mode: color;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-54.7" y1="778.7" x2="822.7" y2="-98.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8f19a6"/>
+      <stop offset=".1" stop-color="#8428a7"/>
+      <stop offset=".3" stop-color="#6851a9"/>
+      <stop offset=".6" stop-color="#3a93ae"/>
+      <stop offset="1" stop-color="#00e9b4"/>
+    </linearGradient>
+    <clipPath id="clippath">
+      <rect class="st0" x="-142.5" y="-11" width="1052.9" height="701.9"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="1160" cy="-29.8" fx="1160" fy="-29.8" r="699" gradientTransform="translate(179.5) scale(.7 1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00e9b4"/>
+      <stop offset="0" stop-color="#00e9b4" stop-opacity=".9"/>
+      <stop offset=".3" stop-color="#00e9b4" stop-opacity=".6"/>
+      <stop offset=".6" stop-color="#00e9b4" stop-opacity=".3"/>
+      <stop offset=".8" stop-color="#00e9b4" stop-opacity=".1"/>
+      <stop offset=".9" stop-color="#00e9b4" stop-opacity="0"/>
+      <stop offset="1" stop-color="#00e9b4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient1" cx="-31.8" cy="684.1" fx="-31.8" fy="684.1" r="532.9" gradientTransform="translate(-98.1) scale(1.5 1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff3e83"/>
+      <stop offset=".3" stop-color="#ff3e83" stop-opacity=".7"/>
+      <stop offset=".5" stop-color="#ff3e83" stop-opacity=".4"/>
+      <stop offset=".8" stop-color="#ff3e83" stop-opacity=".2"/>
+      <stop offset=".9" stop-color="#ff3e83" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ff3e83" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clippath-1">
+      <rect class="st0" x="-142.5" y="-11" width="1052.9" height="701.9"/>
+    </clipPath>
+    <linearGradient id="linear-gradient1" x1="170.5" y1="428.4" x2="565.9" y2="428.4" gradientTransform="translate(1027.9 620.5) rotate(166.3)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00e9b4"/>
+      <stop offset="0" stop-color="#00e9b4" stop-opacity=".9"/>
+      <stop offset=".3" stop-color="#00e9b4" stop-opacity=".6"/>
+      <stop offset=".6" stop-color="#00e9b4" stop-opacity=".3"/>
+      <stop offset=".8" stop-color="#00e9b4" stop-opacity=".1"/>
+      <stop offset=".9" stop-color="#00e9b4" stop-opacity="0"/>
+      <stop offset="1" stop-color="#00e9b4" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient2" x1="841.3" y1="1154.7" x2="1082" y2="1035.7" gradientTransform="translate(-221.1 622.9) rotate(-76.7)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff80ad" stop-opacity="0"/>
+      <stop offset="0" stop-color="#ff80ad" stop-opacity="0"/>
+      <stop offset=".2" stop-color="#ff80ad" stop-opacity=".1"/>
+      <stop offset=".4" stop-color="#ff80ad" stop-opacity=".3"/>
+      <stop offset=".6" stop-color="#ff80ad" stop-opacity=".5"/>
+      <stop offset=".9" stop-color="#ff80ad" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#ff80ad"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient3" x1="205.2" y1="563.5" x2="349.7" y2="492.1" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#linear-gradient2"/>
+    <linearGradient id="linear-gradient4" x1="27.1" y1="659.4" x2="-119.3" y2="48" gradientTransform="translate(-68.4 44.2) rotate(-11.2)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8f19a6"/>
+      <stop offset=".2" stop-color="#8f19a6" stop-opacity=".8"/>
+      <stop offset=".4" stop-color="#8f19a6" stop-opacity=".5"/>
+      <stop offset=".7" stop-color="#8f19a6" stop-opacity=".2"/>
+      <stop offset=".9" stop-color="#8f19a6" stop-opacity="0"/>
+      <stop offset="1" stop-color="#8f19a6" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient5" x1="578.1" y1="15.2" x2="431.7" y2="-596.2" gradientTransform="translate(633.1 42.1) rotate(53.6)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00c6db"/>
+      <stop offset="0" stop-color="#00c6db" stop-opacity=".9"/>
+      <stop offset=".3" stop-color="#00c6db" stop-opacity=".6"/>
+      <stop offset=".5" stop-color="#00c6db" stop-opacity=".3"/>
+      <stop offset=".7" stop-color="#00c6db" stop-opacity=".2"/>
+      <stop offset=".9" stop-color="#00c6db" stop-opacity="0"/>
+      <stop offset="1" stop-color="#00c6db" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient6" x1="465.3" y1="1118" x2="318.9" y2="506.6" gradientTransform="translate(633.1 42.1) rotate(53.6)" xlink:href="#linear-gradient2"/>
+    <linearGradient id="linear-gradient7" x1="366.8" y1="680.7" x2="583.9" y2="573.4" gradientTransform="translate(-99.2 737.2) rotate(-63)" xlink:href="#linear-gradient5"/>
+    <clipPath id="clippath-2">
+      <path class="st0" d="M887.8,439.5c2.9,54.9-94.7,129.2-182.8,86.7-58-28-71.2-64.7-82.6-121.4-28.7-142.1,56.4-212.1,110.7-97.7,30.5,64.3,150.9,60.7,154.7,132.4Z"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <path class="st0" d="M327.5,510.9c10.7,78.1-11.8,128.7-115.5,133.3-72.3,3.2-75.7,126.8,26.9,172.7,102.5,45.9,223.5-32.4,234.1-149.3,10.5-116.9-159.1-255.9-145.4-156.7Z"/>
     </clipPath>
   </defs>
-  <g id="home-mobile-banner-1" clip-path="url(#clip-home-mobile-banner-1)">
-    <rect width="768" height="680" fill="#7036d3"/>
-    <line id="Line_25" data-name="Line 25" x2="325" transform="translate(-19.343 644.451) rotate(-40)" fill="none" stroke="#42c1ca" stroke-linecap="round" stroke-width="14"/>
-    <line id="Line_19" data-name="Line 19" x2="328" transform="translate(564.713 515.968) rotate(-40)" fill="none" stroke="#42c1ca" stroke-linecap="round" stroke-width="73"/>
-    <line id="Line_20" data-name="Line 20" x2="275" transform="translate(500.797 621.816) rotate(-40)" fill="none" stroke="#fce86a" stroke-linecap="round" stroke-width="20"/>
-    <line id="Line_22" data-name="Line 22" x2="275" transform="translate(694.86 269.694) rotate(-40)" fill="none" stroke="#42c1ca" stroke-linecap="round" stroke-width="20"/>
-    <line id="Line_23" data-name="Line 23" x2="364" transform="translate(322.157 538.045) rotate(-40)" fill="none" stroke="#f8585d" stroke-linecap="round" stroke-width="49"/>
-    <line id="Line_31" data-name="Line 31" x2="364" transform="translate(717.238 638.623) rotate(-40)" fill="none" stroke="#f8585d" stroke-linecap="round" stroke-width="52"/>
-    <line id="Line_24" data-name="Line 24" x2="280" transform="translate(23.635 631.886) rotate(-40)" fill="none" stroke="#fce86a" stroke-linecap="round" stroke-width="31"/>
-    <line id="Line_27" data-name="Line 27" x2="463" transform="translate(-70.856 405.708) rotate(-40)" fill="none" stroke="#42c1ca" stroke-linecap="round" stroke-width="49"/>
-    <line id="Line_28" data-name="Line 28" x2="463" transform="translate(-177.946 315.42) rotate(-40)" fill="none" stroke="#fce86a" stroke-linecap="round" stroke-width="34"/>
-    <line id="Line_26" data-name="Line 26" x2="114" transform="translate(6.464 552.305) rotate(-40)" fill="none" stroke="#f8585d" stroke-linecap="round" stroke-width="64"/>
-    <line id="Line_21" data-name="Line 21" x2="275" transform="translate(642.033 662.564) rotate(-40)" fill="none" stroke="#42c1ca" stroke-linecap="round" stroke-width="12"/>
-    <line id="Line_29" data-name="Line 29" x2="463" transform="translate(70.086 133.405) rotate(-40)" fill="none" stroke="#42c1ca" stroke-linecap="round" stroke-width="12"/>
-    <line id="Line_30" data-name="Line 30" x2="463" transform="translate(681.72 95.352) rotate(-40)" fill="none" stroke="#fce86a" stroke-linecap="round" stroke-width="12"/>
-    <circle id="Ellipse_171" data-name="Ellipse 171" cx="13.5" cy="13.5" r="13.5" transform="translate(690.538 392.113) rotate(-40)" fill="#e0ca6a" opacity="0.4"/>
-    <circle id="Ellipse_173" data-name="Ellipse 173" cx="20.5" cy="20.5" r="20.5" transform="translate(602.574 391.515) rotate(-40)" fill="#e0ca6a" opacity="0.4"/>
-    <circle id="Ellipse_178" data-name="Ellipse 178" cx="21.5" cy="21.5" r="21.5" transform="translate(527.642 420.45) rotate(-40)" fill="#e0ca6a"/>
-    <circle id="Ellipse_176" data-name="Ellipse 176" cx="15" cy="15" r="15" transform="translate(435.1 504.628) rotate(-40)" fill="#f8585d"/>
-    <circle id="Ellipse_174" data-name="Ellipse 174" cx="10.5" cy="10.5" r="10.5" transform="translate(493.762 661.66) rotate(-40)" fill="#56a2bb"/>
-    <circle id="Ellipse_175" data-name="Ellipse 175" cx="8.5" cy="8.5" r="8.5" transform="translate(433.799 649.315) rotate(-40)" fill="#56a2bb"/>
-    <circle id="Ellipse_172" data-name="Ellipse 172" cx="13.5" cy="13.5" r="13.5" transform="translate(725.503 357.552) rotate(-40)" fill="#f8585d" opacity="0.4"/>
-    <circle id="Ellipse_177" data-name="Ellipse 177" cx="19" cy="19" r="19" transform="translate(419.207 499.689) rotate(-40)" fill="#f8585d"/>
-    <circle id="Ellipse_189" data-name="Ellipse 189" cx="9" cy="9" r="9" transform="translate(418.256 445.66) rotate(-40)" fill="#56a2bb"/>
-    <circle id="Ellipse_198" data-name="Ellipse 198" cx="13" cy="13" r="13" transform="translate(238.965 547.802) rotate(-40)" fill="#56a2bb" opacity="0.7"/>
-    <circle id="Ellipse_199" data-name="Ellipse 199" cx="14" cy="14" r="14" transform="translate(145.569 568.734) rotate(-40)" fill="#56a2bb" opacity="0.7"/>
-    <circle id="Ellipse_201" data-name="Ellipse 201" cx="7" cy="7" r="7" transform="translate(261.858 464.628) rotate(-40)" fill="#56a2bb"/>
-    <circle id="Ellipse_202" data-name="Ellipse 202" cx="11" cy="11" r="11" transform="translate(140.831 493.079) rotate(-40)" fill="#56a2bb"/>
-    <circle id="Ellipse_203" data-name="Ellipse 203" cx="30" cy="30" r="30" transform="translate(84.468 447.689) rotate(-40)" fill="#e0ca6a" opacity="0.6"/>
-    <circle id="Ellipse_204" data-name="Ellipse 204" cx="20" cy="20" r="20" transform="translate(124.646 402.228) rotate(-40)" fill="#e0ca6a" opacity="0.6"/>
-    <circle id="Ellipse_205" data-name="Ellipse 205" cx="18" cy="18" r="18" transform="translate(135.344 385.418) rotate(-40)" fill="#56a2bb" opacity="0.6"/>
-    <circle id="Ellipse_206" data-name="Ellipse 206" cx="12" cy="12" r="12" transform="translate(208.894 364.17) rotate(-40)" fill="#56a2bb"/>
-    <circle id="Ellipse_208" data-name="Ellipse 208" cx="14" cy="14" r="14" transform="translate(191.679 309.429) rotate(-40)" fill="#f8585d"/>
-    <circle id="Ellipse_209" data-name="Ellipse 209" cx="11" cy="11" r="11" transform="translate(185.744 296.133) rotate(-40)" fill="#56a2bb"/>
-    <circle id="Ellipse_210" data-name="Ellipse 210" cx="11" cy="11" r="11" transform="translate(210.011 278.381) rotate(-40)" fill="#e0ca6a"/>
-    <circle id="Ellipse_211" data-name="Ellipse 211" cx="15" cy="15" r="15" transform="translate(215.1 268.89) rotate(-40)" fill="#f8585d"/>
-    <circle id="Ellipse_212" data-name="Ellipse 212" cx="31.5" cy="31.5" r="31.5" transform="translate(224.399 292.417) rotate(-40)" fill="#e0ca6a" opacity="0.7"/>
-    <circle id="Ellipse_213" data-name="Ellipse 213" cx="24.5" cy="24.5" r="24.5" transform="translate(256.001 361.194) rotate(-40)" fill="#e0ca6a" opacity="0.7"/>
-    <circle id="Ellipse_214" data-name="Ellipse 214" cx="24.5" cy="24.5" r="24.5" transform="translate(289.223 379.006) rotate(-40)" fill="#56a2bb" opacity="0.7"/>
-    <circle id="Ellipse_215" data-name="Ellipse 215" cx="27.5" cy="27.5" r="27.5" transform="translate(439.889 368.764) rotate(-40)" fill="#56a2bb" opacity="0.6"/>
-    <circle id="Ellipse_207" data-name="Ellipse 207" cx="16" cy="16" r="16" transform="translate(186.273 338.768) rotate(-40)" fill="#e0ca6a"/>
-    <circle id="Ellipse_200" data-name="Ellipse 200" cx="19" cy="19" r="19" transform="translate(107.197 617.902) rotate(-40)" fill="#56a2bb" opacity="0.7"/>
-    <circle id="Ellipse_188" data-name="Ellipse 188" cx="29" cy="29" r="29" transform="translate(324.948 530.481) rotate(-40)" fill="#56a2bb" opacity="0.8"/>
-    <ellipse id="Ellipse_179" data-name="Ellipse 179" cx="9.5" cy="9" rx="9.5" ry="9" transform="translate(563.928 435.691) rotate(-40)" fill="#56a2bb"/>
-    <circle id="Ellipse_180" data-name="Ellipse 180" cx="12.5" cy="12.5" r="12.5" transform="translate(555.889 405.886) rotate(-40)" fill="#56a2bb"/>
-    <circle id="Ellipse_181" data-name="Ellipse 181" cx="17.5" cy="17.5" r="17.5" transform="translate(553.978 370.938) rotate(-40)" fill="#e0ca6a" opacity="0.4"/>
-    <circle id="Ellipse_182" data-name="Ellipse 182" cx="11.5" cy="11.5" r="11.5" transform="translate(644.362 254.629) rotate(-40)" fill="#e0ca6a" opacity="0.4"/>
-    <circle id="Ellipse_190" data-name="Ellipse 190" cx="28" cy="28" r="28" transform="translate(560.324 128.029) rotate(-40)" fill="#56a2bb"/>
-    <circle id="Ellipse_191" data-name="Ellipse 191" cx="16" cy="16" r="16" transform="translate(503.477 128.734) rotate(-40)" fill="#e0ca6a" opacity="0.4"/>
-    <circle id="Ellipse_232" data-name="Ellipse 232" cx="15" cy="15" r="15" transform="translate(745.329 49.81) rotate(-40)" fill="#f8585d" opacity="0.4"/>
-    <circle id="Ellipse_196" data-name="Ellipse 196" cx="15.5" cy="15.5" r="15.5" transform="translate(384.924 55.899) rotate(-40)" fill="#56a2bb"/>
-    <circle id="Ellipse_197" data-name="Ellipse 197" cx="24.5" cy="24.5" r="24.5" transform="translate(319.493 130.383) rotate(-40)" fill="#f8585d" opacity="0.2"/>
-    <circle id="Ellipse_230" data-name="Ellipse 230" cx="24.5" cy="24.5" r="24.5" transform="translate(236.76 199.804) rotate(-40)" fill="#e0ca6a" opacity="0.7"/>
-    <circle id="Ellipse_219" data-name="Ellipse 219" cx="27.5" cy="27.5" r="27.5" transform="translate(267.207 78.961) rotate(-40)" fill="#56a2bb" opacity="0.4"/>
-    <circle id="Ellipse_220" data-name="Ellipse 220" cx="24.5" cy="24.5" r="24.5" transform="translate(247.827 65.199) rotate(-40)" fill="#56a2bb" opacity="0.4"/>
-    <circle id="Ellipse_221" data-name="Ellipse 221" cx="11.5" cy="11.5" r="11.5" transform="translate(239.47 55.24) rotate(-40)" fill="#f8585d" opacity="0.2"/>
-    <circle id="Ellipse_229" data-name="Ellipse 229" cx="11.5" cy="11.5" r="11.5" transform="translate(160.073 13.513) rotate(-40)" fill="#60c4af"/>
-    <circle id="Ellipse_227" data-name="Ellipse 227" cx="7.5" cy="7.5" r="7.5" transform="translate(171.565 117.44) rotate(-40)" fill="#56a2bb"/>
-    <circle id="Ellipse_228" data-name="Ellipse 228" cx="7.5" cy="7.5" r="7.5" transform="translate(75.907 188.57) rotate(-40)" fill="#56a2bb"/>
-    <circle id="Ellipse_222" data-name="Ellipse 222" cx="9.5" cy="9.5" r="9.5" transform="translate(178.698 181.947) rotate(-40)" fill="#f8585d" opacity="0.4"/>
-    <circle id="Ellipse_223" data-name="Ellipse 223" cx="11.5" cy="11.5" r="11.5" transform="translate(102.57 273.24) rotate(-40)" fill="#f8585d"/>
-    <circle id="Ellipse_224" data-name="Ellipse 224" cx="19.5" cy="19.5" r="19.5" transform="translate(11.972 213.499) rotate(-40)" fill="#e0ca6a" opacity="0.6"/>
-    <circle id="Ellipse_225" data-name="Ellipse 225" cx="34.5" cy="34.5" r="34.5" transform="translate(-22.64 276.482) rotate(-40)" fill="#e0ca6a" opacity="0.5"/>
-    <circle id="Ellipse_193" data-name="Ellipse 193" cx="15" cy="15" r="15" transform="translate(471.965 237.417) rotate(-40)" fill="#e0ca6a"/>
-    <circle id="Ellipse_216" data-name="Ellipse 216" cx="20" cy="20" r="20" transform="translate(402.308 311.531) rotate(-40)" fill="#e0ca6a" opacity="0.6"/>
-    <circle id="Ellipse_217" data-name="Ellipse 217" cx="23" cy="23" r="23" transform="translate(437.625 305.394) rotate(-40)" fill="#56a2bb" opacity="0.6"/>
-    <circle id="Ellipse_218" data-name="Ellipse 218" cx="23" cy="23" r="23" transform="translate(490.641 307.902) rotate(-40)" fill="#56a2bb" opacity="0.6"/>
-    <circle id="Ellipse_195" data-name="Ellipse 195" cx="22.5" cy="22.5" r="22.5" transform="translate(404.332 191.041) rotate(-40)" fill="#56a2bb"/>
-    <circle id="Ellipse_192" data-name="Ellipse 192" cx="9" cy="9" r="9" transform="translate(559.909 43.526) rotate(-40)" fill="#e0ca6a" opacity="0.4"/>
-    <circle id="Ellipse_184" data-name="Ellipse 184" cx="11.5" cy="11.5" r="11.5" transform="translate(614.795 332.96) rotate(-40)" fill="#e0ca6a" opacity="0.6"/>
-    <circle id="Ellipse_185" data-name="Ellipse 185" cx="16.5" cy="16.5" r="16.5" transform="translate(589.093 342.778) rotate(-40)" fill="#56a2bb" opacity="0.6"/>
-    <circle id="Ellipse_186" data-name="Ellipse 186" cx="16.5" cy="16.5" r="16.5" transform="translate(562.941 333.393) rotate(-40)" fill="#56a2bb" opacity="0.6"/>
-    <circle id="Ellipse_183" data-name="Ellipse 183" cx="21.5" cy="21.5" r="21.5" transform="translate(583.721 306.818) rotate(-40)" fill="#e0ca6a" opacity="0.6"/>
-    <ellipse id="Ellipse_187" data-name="Ellipse 187" cx="21" cy="21.5" rx="21" ry="21.5" transform="translate(604.986 347.718) rotate(-40)" fill="#e0ca6a" opacity="0.6"/>
-    <circle id="Ellipse_194" data-name="Ellipse 194" cx="8.5" cy="8.5" r="8.5" transform="translate(419.486 204.433) rotate(-40)" fill="#f8585d" opacity="0.6"/>
-    <circle id="Ellipse_226" data-name="Ellipse 226" cx="21" cy="21" r="21" transform="translate(-29.455 305.698) rotate(-40)" fill="#e0ca6a" opacity="0.5"/>
-    <circle id="Ellipse_231" data-name="Ellipse 231" cx="12" cy="12" r="12" transform="translate(253.19 174.269) rotate(-40)" fill="#f8585d" opacity="0.4"/>
+  <g class="st8">
+    <g id="_图层_2" data-name="图层_2">
+      <g>
+        <g>
+          <rect class="st7" x="-142.5" y="-11" width="1052.9" height="701.9"/>
+          <g class="st17">
+            <g>
+              <ellipse class="st12" cx="994.4" cy="-29.8" rx="491" ry="698.9"/>
+              <ellipse class="st18" cx="-146.7" cy="684.1" rx="815.1" ry="532.9"/>
+            </g>
+          </g>
+        </g>
+        <g class="st9">
+          <g>
+            <path class="st3" d="M517.7,456.5c-11.6-97.4-8.3-172,146.9-163.3,89.9,5,134.1-119.2,7.5-178.7s-279.1,35.3-294.9,180.5c-15.8,145.3,155.2,285.3,140.5,161.5Z"/>
+            <path class="st6" d="M1129.5-34.8c16.5,80.4,165.2,13.3,64.4,67.1-100.7,53.8-213.8,38.7-252.5-33.8-38.7-72.4-42.8-175.2,68.7-199.9,110.1-24.4,110.1,122,119.3,166.6Z"/>
+            <path class="st15" d="M373.5,533.5c0,44.6-38.2,80.8-85.2,80.8s-85.2-36.2-85.2-80.8,19-97.3,66.1-97.3,104.4,52.7,104.4,97.3Z"/>
+            <path class="st4" d="M-333,393.4C-250.9,246.1-65.2,337.5-38.3,216.3-11.5,95.6,75.3,36.8,152.5,76.9,325.1,166.7,233.8,333.1,12.7,341.6c-178.4,6.9-196.1,190.3-179.5,354.7,16.5,164.5-289.9-81-166.2-303Z"/>
+            <path class="st13" d="M1050,12.3c168.2,11.7,164.4,218.7,285.5,191.5,120.7-27.1,210.8,26.5,207.3,113.5-7.9,194.4-197.3,182.5-299-14-82-158.5-255.6-96.6-397.4-11.8-141.9,84.9-49.8-296.8,203.6-279.2Z"/>
+            <path class="st5" d="M95.3,575.7c168.2,11.7,164.4,218.7,285.5,191.5,120.7-27.1,210.8,26.5,207.3,113.5-7.9,194.4-197.3,182.5-299-14-82-158.5-255.6-96.6-397.4-11.8-141.9,84.9-49.8-296.8,203.6-279.2Z"/>
+            <path class="st16" d="M748.6,473.8c59.7,30.5,82.1,106.2,50,169.2-32.1,63-106.6,89.4-166.3,59-59.7-30.5-117.3-91.9-85.2-154.9,32.1-63,141.8-103.8,201.5-73.3Z"/>
+            <g class="st14">
+              <g class="st11">
+                <g>
+                  <line class="st1" x1="575.9" y1="800.4" x2="906.4" y2="467.7"/>
+                  <line class="st1" x1="575.1" y1="788.2" x2="905.6" y2="455.5"/>
+                  <line class="st1" x1="574.4" y1="776" x2="904.8" y2="443.3"/>
+                  <line class="st1" x1="573.6" y1="763.8" x2="904.1" y2="431.1"/>
+                  <line class="st1" x1="572.9" y1="751.6" x2="903.3" y2="418.8"/>
+                  <line class="st1" x1="572.1" y1="739.3" x2="902.6" y2="406.6"/>
+                  <line class="st1" x1="571.4" y1="727.1" x2="901.8" y2="394.4"/>
+                  <line class="st1" x1="570.6" y1="714.9" x2="901" y2="382.2"/>
+                  <line class="st1" x1="569.8" y1="702.7" x2="900.3" y2="370"/>
+                  <line class="st1" x1="569.1" y1="690.4" x2="899.5" y2="357.7"/>
+                  <line class="st1" x1="568.3" y1="678.2" x2="898.8" y2="345.5"/>
+                  <line class="st1" x1="567.6" y1="666" x2="898" y2="333.3"/>
+                  <line class="st1" x1="566.8" y1="653.8" x2="897.2" y2="321.1"/>
+                  <line class="st1" x1="566" y1="641.5" x2="896.5" y2="308.8"/>
+                  <line class="st1" x1="565.3" y1="629.3" x2="895.7" y2="296.6"/>
+                  <line class="st1" x1="564.5" y1="617.1" x2="895" y2="284.4"/>
+                  <line class="st1" x1="563.8" y1="604.9" x2="894.2" y2="272.2"/>
+                  <line class="st1" x1="563" y1="592.7" x2="893.4" y2="260"/>
+                  <line class="st1" x1="562.2" y1="580.4" x2="892.7" y2="247.7"/>
+                  <line class="st1" x1="561.5" y1="568.2" x2="891.9" y2="235.5"/>
+                  <line class="st1" x1="560.7" y1="556" x2="891.2" y2="223.3"/>
+                  <line class="st1" x1="560" y1="543.8" x2="890.4" y2="211.1"/>
+                  <line class="st1" x1="559.2" y1="531.5" x2="889.7" y2="198.8"/>
+                  <line class="st1" x1="558.4" y1="519.3" x2="888.9" y2="186.6"/>
+                  <line class="st1" x1="557.7" y1="507.1" x2="888.1" y2="174.4"/>
+                  <line class="st1" x1="556.9" y1="494.9" x2="887.4" y2="162.2"/>
+                  <line class="st1" x1="556.2" y1="482.7" x2="886.6" y2="150"/>
+                  <line class="st1" x1="555.4" y1="470.4" x2="885.9" y2="137.7"/>
+                  <line class="st1" x1="554.6" y1="458.2" x2="885.1" y2="125.5"/>
+                  <line class="st1" x1="553.9" y1="446" x2="884.3" y2="113.3"/>
+                  <line class="st1" x1="553.1" y1="433.8" x2="883.6" y2="101.1"/>
+                  <line class="st1" x1="552.4" y1="421.5" x2="882.8" y2="88.8"/>
+                  <line class="st1" x1="551.6" y1="409.3" x2="882.1" y2="76.6"/>
+                  <line class="st1" x1="550.8" y1="397.1" x2="881.3" y2="64.4"/>
+                  <line class="st1" x1="550.1" y1="384.9" x2="880.5" y2="52.2"/>
+                  <line class="st1" x1="549.3" y1="372.7" x2="879.8" y2="39.9"/>
+                  <line class="st1" x1="548.6" y1="360.4" x2="879" y2="27.7"/>
+                  <line class="st1" x1="547.8" y1="348.2" x2="878.3" y2="15.5"/>
+                  <line class="st1" x1="547" y1="336" x2="877.5" y2="3.3"/>
+                  <line class="st1" x1="546.3" y1="323.8" x2="876.7" y2="-8.9"/>
+                </g>
+                <path class="st1" d="M772,124.9"/>
+              </g>
+            </g>
+            <g class="st14">
+              <g class="st10">
+                <g>
+                  <line class="st1" x1="121.8" y1="1113.6" x2="518.7" y2="701.8"/>
+                  <line class="st1" x1="121.6" y1="1100.5" x2="518.5" y2="688.8"/>
+                  <line class="st1" x1="121.3" y1="1087.5" x2="518.2" y2="675.8"/>
+                  <line class="st1" x1="121.1" y1="1074.5" x2="518" y2="662.8"/>
+                  <line class="st1" x1="120.8" y1="1061.5" x2="517.8" y2="649.7"/>
+                  <line class="st1" x1="120.6" y1="1048.5" x2="517.5" y2="636.7"/>
+                  <line class="st1" x1="120.4" y1="1035.4" x2="517.3" y2="623.7"/>
+                  <line class="st1" x1="120.1" y1="1022.4" x2="517" y2="610.7"/>
+                  <line class="st1" x1="119.9" y1="1009.4" x2="516.8" y2="597.6"/>
+                  <line class="st1" x1="119.6" y1="996.4" x2="516.6" y2="584.6"/>
+                  <line class="st1" x1="119.4" y1="983.3" x2="516.3" y2="571.6"/>
+                  <line class="st1" x1="119.2" y1="970.3" x2="516.1" y2="558.6"/>
+                  <line class="st1" x1="118.9" y1="957.3" x2="515.8" y2="545.6"/>
+                  <line class="st1" x1="118.7" y1="944.3" x2="515.6" y2="532.5"/>
+                  <line class="st1" x1="118.4" y1="931.3" x2="515.4" y2="519.5"/>
+                  <line class="st1" x1="118.2" y1="918.2" x2="515.1" y2="506.5"/>
+                  <line class="st1" x1="118" y1="905.2" x2="514.9" y2="493.5"/>
+                  <line class="st1" x1="117.7" y1="892.2" x2="514.6" y2="480.5"/>
+                  <line class="st1" x1="117.5" y1="879.2" x2="514.4" y2="467.4"/>
+                  <line class="st1" x1="117.3" y1="866.2" x2="514.2" y2="454.4"/>
+                  <line class="st1" x1="117" y1="853.1" x2="513.9" y2="441.4"/>
+                  <line class="st1" x1="116.8" y1="840.1" x2="513.7" y2="428.4"/>
+                  <line class="st1" x1="116.5" y1="827.1" x2="513.5" y2="415.3"/>
+                  <line class="st1" x1="116.3" y1="814.1" x2="513.2" y2="402.3"/>
+                  <line class="st1" x1="116.1" y1="801" x2="513" y2="389.3"/>
+                  <line class="st1" x1="115.8" y1="788" x2="512.7" y2="376.3"/>
+                  <line class="st1" x1="115.6" y1="775" x2="512.5" y2="363.3"/>
+                  <line class="st1" x1="115.3" y1="762" x2="512.3" y2="350.2"/>
+                  <line class="st1" x1="115.1" y1="749" x2="512" y2="337.2"/>
+                  <line class="st1" x1="114.9" y1="735.9" x2="511.8" y2="324.2"/>
+                  <line class="st1" x1="114.6" y1="722.9" x2="511.5" y2="311.2"/>
+                  <line class="st1" x1="114.4" y1="709.9" x2="511.3" y2="298.2"/>
+                  <line class="st1" x1="114.2" y1="696.9" x2="511.1" y2="285.1"/>
+                  <line class="st1" x1="113.9" y1="683.9" x2="510.8" y2="272.1"/>
+                  <line class="st1" x1="113.7" y1="670.8" x2="510.6" y2="259.1"/>
+                  <line class="st1" x1="113.4" y1="657.8" x2="510.4" y2="246.1"/>
+                  <line class="st1" x1="113.2" y1="644.8" x2="510.1" y2="233"/>
+                  <line class="st1" x1="113" y1="631.8" x2="509.9" y2="220"/>
+                  <line class="st1" x1="112.7" y1="618.7" x2="509.6" y2="207"/>
+                  <line class="st1" x1="112.5" y1="605.7" x2="509.4" y2="194"/>
+                </g>
+              </g>
+            </g>
+            <circle class="st2" cx="423.5" cy="190.2" r="42.3" transform="translate(167.5 577.6) rotate(-80.7)"/>
+            <circle class="st2" cx="813.2" cy="632.9" r="21.5" transform="translate(-209.3 760.4) rotate(-45)"/>
+            <circle class="st2" cx="-65.1" cy="566.4" r="12.8"/>
+            <circle class="st2" cx="616.6" cy="130.6" r="12.8"/>
+            <line class="st2" x1="385.4" y1="450.1" x2="561.3" y2="274.2"/>
+            <line class="st2" x1="527.3" y1="788.7" x2="703.2" y2="612.9"/>
+            <line class="st2" x1="76" y1="611.3" x2="195.4" y2="491.9"/>
+            <line class="st2" x1="-191" y1="309.6" x2="-71.6" y2="190.2"/>
+            <line class="st2" x1="752.2" y1="274.2" x2="846.6" y2="179.8"/>
+            <line class="st2" x1="195.4" y1="170.2" x2="274.6" y2="91"/>
+          </g>
+        </g>
+      </g>
+    </g>
   </g>
 </svg>
