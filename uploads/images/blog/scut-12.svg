@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480" height="290" viewBox="0 0 480 290">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="480" height="290" fill="#f0f8dc"/>
+    </clipPath>
+    <clipPath id="clip-customized">
+      <rect width="480" height="290"/>
+    </clipPath>
+  </defs>
+  <g id="customized" clip-path="url(#clip-customized)">
+    <rect width="480" height="290" fill="#fff"/>
+    <g id="Mask_Group_3" data-name="Mask Group 3" clip-path="url(#clip-path)">
+      <g id="Group_66" data-name="Group 66">
+        <g id="Group_50" data-name="Group 50" transform="translate(-5.494)">
+          <g id="Group_49" data-name="Group 49" transform="translate(5.494)">
+            <rect id="Rectangle_11" data-name="Rectangle 11" width="480" height="290" fill="#e6f0ca"/>
+          </g>
+        </g>
+        <g id="Group_64" data-name="Group 64" transform="translate(-100.278 -7.625)">
+          <g id="Group_51" data-name="Group 51" transform="translate(96.877 200.875)">
+            <path id="Path_124" data-name="Path 124" d="M1261.123,719.687a62.181,62.181,0,0,1-62.111,62.111v34.611a96.832,96.832,0,0,0,96.722-96.722Z" transform="translate(-1199.012 -719.687)" fill="#65b29d"/>
+          </g>
+          <g id="Group_52" data-name="Group 52" transform="translate(96.877 104.181)">
+            <path id="Path_125" data-name="Path 125" d="M1199.012,394.2a62.182,62.182,0,0,1,62.111,62.111h34.611a96.832,96.832,0,0,0-96.722-96.722Z" transform="translate(-1199.012 -359.587)" fill="#65b29d"/>
+          </g>
+          <g id="Group_53" data-name="Group 53" transform="translate(96.704 42.163)">
+            <path id="Path_126" data-name="Path 126" d="M1261.764,128.622a62.181,62.181,0,0,1-62.111,62.111v34.611a96.832,96.832,0,0,0,96.722-96.722Z" transform="translate(-1199.653 -128.622)" fill="#fff"/>
+          </g>
+          <circle id="Ellipse_4" data-name="Ellipse 4" cx="17.413" cy="17.413" r="17.413" transform="translate(165.256)" fill="#ffee27"/>
+          <circle id="Ellipse_2" data-name="Ellipse 2" cx="17.413" cy="17.413" r="17.413" transform="translate(543.431 242.638) rotate(-135)" fill="#b2d55b"/>
+          <circle id="Ellipse_9" data-name="Ellipse 9" cx="10.477" cy="10.477" r="10.477" transform="translate(122.614 218.013) rotate(-135)" fill="#fff"/>
+          <g id="Group_62" data-name="Group 62" transform="translate(421.929 200.903)">
+            <path id="Path_135" data-name="Path 135" d="M410.394,816.516A62.181,62.181,0,0,1,472.5,754.405V719.794a96.832,96.832,0,0,0-96.722,96.722Z" transform="translate(-375.783 -719.794)" fill="#fff"/>
+          </g>
+        </g>
+        <text id="customized-2" data-name="customized" transform="translate(108 136)" fill="#16765c" font-size="56" font-family="FilsonSoftMedium, Filson Soft"><tspan x="0" y="0">Customized</tspan></text>
+        <text id="_advantages" data-name=" advantages" transform="translate(108 188)" fill="#65b29d" font-size="32" font-family="FilsonSoftRegular-Italic, Filson Soft" font-style="italic"><tspan x="0" y="0" xml:space="preserve"> Advantages</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

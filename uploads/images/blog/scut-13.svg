@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480" height="290" viewBox="0 0 480 290">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#80e0ed"/>
+      <stop offset="1" stop-color="#0472e0"/>
+    </linearGradient>
+    <clipPath id="clip-How_to_choose">
+      <rect width="480" height="290"/>
+    </clipPath>
+  </defs>
+  <g id="How_to_choose" data-name="How to choose" clip-path="url(#clip-How_to_choose)">
+    <rect width="480" height="290" fill="#fff"/>
+    <g id="Group_126" data-name="Group 126">
+      <g id="Group_109" data-name="Group 109" transform="translate(-0.191)">
+        <rect id="Rectangle_4" data-name="Rectangle 4" width="480" height="290" transform="translate(0.191)" fill="#bda7e8"/>
+        <g id="Group_48" data-name="Group 48" transform="translate(63.539 114)">
+          <g id="line" transform="translate(0 0)">
+            <g id="Group_46" data-name="Group 46">
+              <path id="Path_122" data-name="Path 122" d="M524.1,349.356h128.85c15.535,0,28.174-9.954,28.174-22.189V276.428l-5.635-2.959-5.635,2.959v50.739c0,7.341-7.583,13.313-16.9,13.313H524.1c-9.321,0-16.9-5.972-16.9-13.313V225.689c0-12.235-12.639-22.189-28.174-22.189H350.174c-15.535,0-28.174,9.954-28.174,22.189v50.739l5.635-2.959,5.635,2.959V225.689c0-7.341,7.583-13.313,16.9-13.313h128.85c9.322,0,16.9,5.972,16.9,13.313V327.167C495.929,339.4,508.568,349.356,524.1,349.356Z" transform="translate(-322 -203.5)" fill="#fff"/>
+            </g>
+          </g>
+          <g id="line-2" data-name="line" transform="translate(0 0)">
+            <g id="Group_47" data-name="Group 47">
+              <path id="Path_123" data-name="Path 123" d="M350.174,349.356h128.85c15.536,0,28.174-9.954,28.174-22.189V225.689c0-7.341,7.583-13.313,16.9-13.313h128.85c9.321,0,16.9,5.972,16.9,13.313v50.739l5.635-2.959,5.635,2.959V225.689c0-12.235-12.639-22.189-28.174-22.189H524.1c-15.535,0-28.174,9.954-28.174,22.189V327.167c0,7.341-7.583,13.313-16.9,13.313H350.174c-9.321,0-16.9-5.972-16.9-13.313V276.428l-5.635-2.959L322,276.428v50.739C322,339.4,334.639,349.356,350.174,349.356Z" transform="translate(-322 -203.5)" fill="url(#linear-gradient)"/>
+            </g>
+          </g>
+        </g>
+        <text id="customized" transform="translate(92.067 192)" fill="#fff" font-size="22" font-family="FilsonSoftMedium, Filson Soft"><tspan x="0" y="0">Customized</tspan></text>
+        <text id="How_to_choose-2" data-name="How to choose" transform="translate(111.191 81)" fill="#fff" font-size="36" font-family="FilsonSoftMedium, Filson Soft"><tspan x="0" y="0">How To Choose</tspan></text>
+        <text id="_" data-name="？" transform="matrix(0.899, 0.438, -0.438, 0.899, 380.698, 79.346)" fill="#7edeed" font-size="69" font-family="PingFangTC-Medium, PingFang TC" font-weight="500"><tspan x="0" y="0">？</tspan></text>
+        <text id="wordpress" transform="translate(275.211 192)" fill="#fff" font-size="22" font-family="FilsonSoftMedium, Filson Soft"><tspan x="0" y="0">Wordpress</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

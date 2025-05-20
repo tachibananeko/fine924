@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="680" viewBox="0 0 768 680">
+  <defs>
+    <clipPath id="clip-home-mobile-banner-1">
+      <rect width="768" height="680"/>
+    </clipPath>
+  </defs>
+  <g id="home-mobile-banner-1" clip-path="url(#clip-home-mobile-banner-1)">
+    <rect width="768" height="680" fill="#7036d3"/>
+    <line id="Line_25" data-name="Line 25" x2="325" transform="translate(-19.343 644.451) rotate(-40)" fill="none" stroke="#42c1ca" stroke-linecap="round" stroke-width="14"/>
+    <line id="Line_19" data-name="Line 19" x2="328" transform="translate(564.713 515.968) rotate(-40)" fill="none" stroke="#42c1ca" stroke-linecap="round" stroke-width="73"/>
+    <line id="Line_20" data-name="Line 20" x2="275" transform="translate(500.797 621.816) rotate(-40)" fill="none" stroke="#fce86a" stroke-linecap="round" stroke-width="20"/>
+    <line id="Line_22" data-name="Line 22" x2="275" transform="translate(694.86 269.694) rotate(-40)" fill="none" stroke="#42c1ca" stroke-linecap="round" stroke-width="20"/>
+    <line id="Line_23" data-name="Line 23" x2="364" transform="translate(322.157 538.045) rotate(-40)" fill="none" stroke="#f8585d" stroke-linecap="round" stroke-width="49"/>
+    <line id="Line_31" data-name="Line 31" x2="364" transform="translate(717.238 638.623) rotate(-40)" fill="none" stroke="#f8585d" stroke-linecap="round" stroke-width="52"/>
+    <line id="Line_24" data-name="Line 24" x2="280" transform="translate(23.635 631.886) rotate(-40)" fill="none" stroke="#fce86a" stroke-linecap="round" stroke-width="31"/>
+    <line id="Line_27" data-name="Line 27" x2="463" transform="translate(-70.856 405.708) rotate(-40)" fill="none" stroke="#42c1ca" stroke-linecap="round" stroke-width="49"/>
+    <line id="Line_28" data-name="Line 28" x2="463" transform="translate(-177.946 315.42) rotate(-40)" fill="none" stroke="#fce86a" stroke-linecap="round" stroke-width="34"/>
+    <line id="Line_26" data-name="Line 26" x2="114" transform="translate(6.464 552.305) rotate(-40)" fill="none" stroke="#f8585d" stroke-linecap="round" stroke-width="64"/>
+    <line id="Line_21" data-name="Line 21" x2="275" transform="translate(642.033 662.564) rotate(-40)" fill="none" stroke="#42c1ca" stroke-linecap="round" stroke-width="12"/>
+    <line id="Line_29" data-name="Line 29" x2="463" transform="translate(70.086 133.405) rotate(-40)" fill="none" stroke="#42c1ca" stroke-linecap="round" stroke-width="12"/>
+    <line id="Line_30" data-name="Line 30" x2="463" transform="translate(681.72 95.352) rotate(-40)" fill="none" stroke="#fce86a" stroke-linecap="round" stroke-width="12"/>
+    <circle id="Ellipse_171" data-name="Ellipse 171" cx="13.5" cy="13.5" r="13.5" transform="translate(690.538 392.113) rotate(-40)" fill="#e0ca6a" opacity="0.4"/>
+    <circle id="Ellipse_173" data-name="Ellipse 173" cx="20.5" cy="20.5" r="20.5" transform="translate(602.574 391.515) rotate(-40)" fill="#e0ca6a" opacity="0.4"/>
+    <circle id="Ellipse_178" data-name="Ellipse 178" cx="21.5" cy="21.5" r="21.5" transform="translate(527.642 420.45) rotate(-40)" fill="#e0ca6a"/>
+    <circle id="Ellipse_176" data-name="Ellipse 176" cx="15" cy="15" r="15" transform="translate(435.1 504.628) rotate(-40)" fill="#f8585d"/>
+    <circle id="Ellipse_174" data-name="Ellipse 174" cx="10.5" cy="10.5" r="10.5" transform="translate(493.762 661.66) rotate(-40)" fill="#56a2bb"/>
+    <circle id="Ellipse_175" data-name="Ellipse 175" cx="8.5" cy="8.5" r="8.5" transform="translate(433.799 649.315) rotate(-40)" fill="#56a2bb"/>
+    <circle id="Ellipse_172" data-name="Ellipse 172" cx="13.5" cy="13.5" r="13.5" transform="translate(725.503 357.552) rotate(-40)" fill="#f8585d" opacity="0.4"/>
+    <circle id="Ellipse_177" data-name="Ellipse 177" cx="19" cy="19" r="19" transform="translate(419.207 499.689) rotate(-40)" fill="#f8585d"/>
+    <circle id="Ellipse_189" data-name="Ellipse 189" cx="9" cy="9" r="9" transform="translate(418.256 445.66) rotate(-40)" fill="#56a2bb"/>
+    <circle id="Ellipse_198" data-name="Ellipse 198" cx="13" cy="13" r="13" transform="translate(238.965 547.802) rotate(-40)" fill="#56a2bb" opacity="0.7"/>
+    <circle id="Ellipse_199" data-name="Ellipse 199" cx="14" cy="14" r="14" transform="translate(145.569 568.734) rotate(-40)" fill="#56a2bb" opacity="0.7"/>
+    <circle id="Ellipse_201" data-name="Ellipse 201" cx="7" cy="7" r="7" transform="translate(261.858 464.628) rotate(-40)" fill="#56a2bb"/>
+    <circle id="Ellipse_202" data-name="Ellipse 202" cx="11" cy="11" r="11" transform="translate(140.831 493.079) rotate(-40)" fill="#56a2bb"/>
+    <circle id="Ellipse_203" data-name="Ellipse 203" cx="30" cy="30" r="30" transform="translate(84.468 447.689) rotate(-40)" fill="#e0ca6a" opacity="0.6"/>
+    <circle id="Ellipse_204" data-name="Ellipse 204" cx="20" cy="20" r="20" transform="translate(124.646 402.228) rotate(-40)" fill="#e0ca6a" opacity="0.6"/>
+    <circle id="Ellipse_205" data-name="Ellipse 205" cx="18" cy="18" r="18" transform="translate(135.344 385.418) rotate(-40)" fill="#56a2bb" opacity="0.6"/>
+    <circle id="Ellipse_206" data-name="Ellipse 206" cx="12" cy="12" r="12" transform="translate(208.894 364.17) rotate(-40)" fill="#56a2bb"/>
+    <circle id="Ellipse_208" data-name="Ellipse 208" cx="14" cy="14" r="14" transform="translate(191.679 309.429) rotate(-40)" fill="#f8585d"/>
+    <circle id="Ellipse_209" data-name="Ellipse 209" cx="11" cy="11" r="11" transform="translate(185.744 296.133) rotate(-40)" fill="#56a2bb"/>
+    <circle id="Ellipse_210" data-name="Ellipse 210" cx="11" cy="11" r="11" transform="translate(210.011 278.381) rotate(-40)" fill="#e0ca6a"/>
+    <circle id="Ellipse_211" data-name="Ellipse 211" cx="15" cy="15" r="15" transform="translate(215.1 268.89) rotate(-40)" fill="#f8585d"/>
+    <circle id="Ellipse_212" data-name="Ellipse 212" cx="31.5" cy="31.5" r="31.5" transform="translate(224.399 292.417) rotate(-40)" fill="#e0ca6a" opacity="0.7"/>
+    <circle id="Ellipse_213" data-name="Ellipse 213" cx="24.5" cy="24.5" r="24.5" transform="translate(256.001 361.194) rotate(-40)" fill="#e0ca6a" opacity="0.7"/>
+    <circle id="Ellipse_214" data-name="Ellipse 214" cx="24.5" cy="24.5" r="24.5" transform="translate(289.223 379.006) rotate(-40)" fill="#56a2bb" opacity="0.7"/>
+    <circle id="Ellipse_215" data-name="Ellipse 215" cx="27.5" cy="27.5" r="27.5" transform="translate(439.889 368.764) rotate(-40)" fill="#56a2bb" opacity="0.6"/>
+    <circle id="Ellipse_207" data-name="Ellipse 207" cx="16" cy="16" r="16" transform="translate(186.273 338.768) rotate(-40)" fill="#e0ca6a"/>
+    <circle id="Ellipse_200" data-name="Ellipse 200" cx="19" cy="19" r="19" transform="translate(107.197 617.902) rotate(-40)" fill="#56a2bb" opacity="0.7"/>
+    <circle id="Ellipse_188" data-name="Ellipse 188" cx="29" cy="29" r="29" transform="translate(324.948 530.481) rotate(-40)" fill="#56a2bb" opacity="0.8"/>
+    <ellipse id="Ellipse_179" data-name="Ellipse 179" cx="9.5" cy="9" rx="9.5" ry="9" transform="translate(563.928 435.691) rotate(-40)" fill="#56a2bb"/>
+    <circle id="Ellipse_180" data-name="Ellipse 180" cx="12.5" cy="12.5" r="12.5" transform="translate(555.889 405.886) rotate(-40)" fill="#56a2bb"/>
+    <circle id="Ellipse_181" data-name="Ellipse 181" cx="17.5" cy="17.5" r="17.5" transform="translate(553.978 370.938) rotate(-40)" fill="#e0ca6a" opacity="0.4"/>
+    <circle id="Ellipse_182" data-name="Ellipse 182" cx="11.5" cy="11.5" r="11.5" transform="translate(644.362 254.629) rotate(-40)" fill="#e0ca6a" opacity="0.4"/>
+    <circle id="Ellipse_190" data-name="Ellipse 190" cx="28" cy="28" r="28" transform="translate(560.324 128.029) rotate(-40)" fill="#56a2bb"/>
+    <circle id="Ellipse_191" data-name="Ellipse 191" cx="16" cy="16" r="16" transform="translate(503.477 128.734) rotate(-40)" fill="#e0ca6a" opacity="0.4"/>
+    <circle id="Ellipse_232" data-name="Ellipse 232" cx="15" cy="15" r="15" transform="translate(745.329 49.81) rotate(-40)" fill="#f8585d" opacity="0.4"/>
+    <circle id="Ellipse_196" data-name="Ellipse 196" cx="15.5" cy="15.5" r="15.5" transform="translate(384.924 55.899) rotate(-40)" fill="#56a2bb"/>
+    <circle id="Ellipse_197" data-name="Ellipse 197" cx="24.5" cy="24.5" r="24.5" transform="translate(319.493 130.383) rotate(-40)" fill="#f8585d" opacity="0.2"/>
+    <circle id="Ellipse_230" data-name="Ellipse 230" cx="24.5" cy="24.5" r="24.5" transform="translate(236.76 199.804) rotate(-40)" fill="#e0ca6a" opacity="0.7"/>
+    <circle id="Ellipse_219" data-name="Ellipse 219" cx="27.5" cy="27.5" r="27.5" transform="translate(267.207 78.961) rotate(-40)" fill="#56a2bb" opacity="0.4"/>
+    <circle id="Ellipse_220" data-name="Ellipse 220" cx="24.5" cy="24.5" r="24.5" transform="translate(247.827 65.199) rotate(-40)" fill="#56a2bb" opacity="0.4"/>
+    <circle id="Ellipse_221" data-name="Ellipse 221" cx="11.5" cy="11.5" r="11.5" transform="translate(239.47 55.24) rotate(-40)" fill="#f8585d" opacity="0.2"/>
+    <circle id="Ellipse_229" data-name="Ellipse 229" cx="11.5" cy="11.5" r="11.5" transform="translate(160.073 13.513) rotate(-40)" fill="#60c4af"/>
+    <circle id="Ellipse_227" data-name="Ellipse 227" cx="7.5" cy="7.5" r="7.5" transform="translate(171.565 117.44) rotate(-40)" fill="#56a2bb"/>
+    <circle id="Ellipse_228" data-name="Ellipse 228" cx="7.5" cy="7.5" r="7.5" transform="translate(75.907 188.57) rotate(-40)" fill="#56a2bb"/>
+    <circle id="Ellipse_222" data-name="Ellipse 222" cx="9.5" cy="9.5" r="9.5" transform="translate(178.698 181.947) rotate(-40)" fill="#f8585d" opacity="0.4"/>
+    <circle id="Ellipse_223" data-name="Ellipse 223" cx="11.5" cy="11.5" r="11.5" transform="translate(102.57 273.24) rotate(-40)" fill="#f8585d"/>
+    <circle id="Ellipse_224" data-name="Ellipse 224" cx="19.5" cy="19.5" r="19.5" transform="translate(11.972 213.499) rotate(-40)" fill="#e0ca6a" opacity="0.6"/>
+    <circle id="Ellipse_225" data-name="Ellipse 225" cx="34.5" cy="34.5" r="34.5" transform="translate(-22.64 276.482) rotate(-40)" fill="#e0ca6a" opacity="0.5"/>
+    <circle id="Ellipse_193" data-name="Ellipse 193" cx="15" cy="15" r="15" transform="translate(471.965 237.417) rotate(-40)" fill="#e0ca6a"/>
+    <circle id="Ellipse_216" data-name="Ellipse 216" cx="20" cy="20" r="20" transform="translate(402.308 311.531) rotate(-40)" fill="#e0ca6a" opacity="0.6"/>
+    <circle id="Ellipse_217" data-name="Ellipse 217" cx="23" cy="23" r="23" transform="translate(437.625 305.394) rotate(-40)" fill="#56a2bb" opacity="0.6"/>
+    <circle id="Ellipse_218" data-name="Ellipse 218" cx="23" cy="23" r="23" transform="translate(490.641 307.902) rotate(-40)" fill="#56a2bb" opacity="0.6"/>
+    <circle id="Ellipse_195" data-name="Ellipse 195" cx="22.5" cy="22.5" r="22.5" transform="translate(404.332 191.041) rotate(-40)" fill="#56a2bb"/>
+    <circle id="Ellipse_192" data-name="Ellipse 192" cx="9" cy="9" r="9" transform="translate(559.909 43.526) rotate(-40)" fill="#e0ca6a" opacity="0.4"/>
+    <circle id="Ellipse_184" data-name="Ellipse 184" cx="11.5" cy="11.5" r="11.5" transform="translate(614.795 332.96) rotate(-40)" fill="#e0ca6a" opacity="0.6"/>
+    <circle id="Ellipse_185" data-name="Ellipse 185" cx="16.5" cy="16.5" r="16.5" transform="translate(589.093 342.778) rotate(-40)" fill="#56a2bb" opacity="0.6"/>
+    <circle id="Ellipse_186" data-name="Ellipse 186" cx="16.5" cy="16.5" r="16.5" transform="translate(562.941 333.393) rotate(-40)" fill="#56a2bb" opacity="0.6"/>
+    <circle id="Ellipse_183" data-name="Ellipse 183" cx="21.5" cy="21.5" r="21.5" transform="translate(583.721 306.818) rotate(-40)" fill="#e0ca6a" opacity="0.6"/>
+    <ellipse id="Ellipse_187" data-name="Ellipse 187" cx="21" cy="21.5" rx="21" ry="21.5" transform="translate(604.986 347.718) rotate(-40)" fill="#e0ca6a" opacity="0.6"/>
+    <circle id="Ellipse_194" data-name="Ellipse 194" cx="8.5" cy="8.5" r="8.5" transform="translate(419.486 204.433) rotate(-40)" fill="#f8585d" opacity="0.6"/>
+    <circle id="Ellipse_226" data-name="Ellipse 226" cx="21" cy="21" r="21" transform="translate(-29.455 305.698) rotate(-40)" fill="#e0ca6a" opacity="0.5"/>
+    <circle id="Ellipse_231" data-name="Ellipse 231" cx="12" cy="12" r="12" transform="translate(253.19 174.269) rotate(-40)" fill="#f8585d" opacity="0.4"/>
+  </g>
+</svg>
